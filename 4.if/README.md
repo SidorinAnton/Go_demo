@@ -14,7 +14,7 @@
 - `!` -- логическое НЕ
 
 ## if-else
-```{go}
+```go
 if a == 1 {
     // сценарий, если условие if выполнено
 } else if a == 2 {
@@ -26,7 +26,7 @@ if a == 1 {
 
 
 ## switch-case
-```{go}
+```go
 var a int
 
 switch a {
